@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a 2nd year PhD student in the statistics department at the University of Michigan, where I am advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io/). 
 
-I previously worked as Senior Analyst at [BBVA Mexico] (https://www.bbva.mx/personas/productos/patrimonial-y-privada/inversiones/notas-estructuradas.html/), where I worked on developing structured investment products using fixed income financial derivatives.
+I previously worked as Senior Analyst at [BBVA Mexico](https://www.bbva.mx/personas/productos/patrimonial-y-privada/inversiones/notas-estructuradas.html), where I worked on developing structured investment products using fixed income financial derivatives.
 
 I graduated from the Actuarial Science major at [UNAM](https://www.fciencias.unam.mx/) in 2016.
 
